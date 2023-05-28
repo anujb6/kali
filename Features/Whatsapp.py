@@ -24,9 +24,7 @@ driver.get("https://web.whatsapp.com/")
 os.system("")
 os.environ["WDM_LOG_LEVEL"] = "0"
 
-ListWeb = {'high court' : "+919833004751",
-            'supreme court': "+919322254209",
-            "test": '+919833190005'}
+ListWeb = {"TestNo": "+91"}
 
 def SendMessage(Name):
     Speak(f"Preparing To Send a Message To {Name}")
