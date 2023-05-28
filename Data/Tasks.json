@@ -1,0 +1,25 @@
+{
+    "haveInView":[
+        {
+            "tag":"open",
+            "patterns":["open","start","launch","visit"
+            ],
+            "responses":["open"
+            ]
+        },
+        {
+            "tag":"send",
+            "patterns":["send","whatsapp","message","send whatsapp"
+            ],
+            "responses":["whatsapp"
+            ]
+        },
+        {
+            "tag":"space",
+            "patterns":["apod","nasa","space","nasa apod"
+            ],
+            "responses":["Nasa"
+            ]
+        }
+    ]
+}

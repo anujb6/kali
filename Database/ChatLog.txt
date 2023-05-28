@@ -1,0 +1,180 @@
+You: what is the date today
+Kali: Today's date is October 10th.
+You: what is time right now
+Kali: Right now, it is 10:15pm.
+You: what is your name
+Kali: My name is Kali.
+You: can you tell me about iron man
+Kali: Iron Man is a superhero who first appeared in Marvel Comics in 1963. He is a wealthy industrialist and genius inventor who creates a powerful suit of armor to save his life and combat crime. Iron Man has been a popular character in comics, movies, and television, and is considered one of
+You: can you tell me about hulk
+Kali: The Hulk is a superhero who first appeared in Marvel Comics in 1962. He is a large, muscular, and powerful creature who is often angry and destructive. However, he is also capable of great heroism, and has been a popular character in comics, movies, and television.
+You: hello
+Kali: Hello, how are you?
+You: you doing
+Kali: I'm doing well, thank you for asking. How about you?
+You: can you tell me about iron man
+Kali: Iron Man is a superhero who first appeared in Marvel Comics in 1963. He is a wealthy industrialist and genius inventor who creates a powerful suit of armor to save his life and combat crime. Iron Man has been a popular character in comics, movies, and television, and is considered one of
+You: and tell me about hulk
+Kali: The Hulk is a superhero who first appeared in Marvel Comics in 1962. He is a large, muscular, and powerful creature who is often angry and destructive. However, he is also capable of great heroism, and has been a popular character in comics, movies, and television.
+You: thank you
+Kali: You're welcome!
+You: what is the capital of pakistan
+Kali: The capital of Pakistan is Islamabad.
+You: what is the capital of india
+Kali: The capital of India is New Delhi.
+You: can you tell me capital of europe
+Kali: There is no one capital of Europe, as the continent is made up of many different countries.
+You: can you tell me about sachin tendulkar
+Kali: Sachin Tendulkar is a former Indian cricketer who is widely considered one of the greatest batsmen of all time. He played for India for over 20 years, and amassed more than 34,000 runs in international cricket. Tendulkar was also a skilled bowler,
+You: can you tell me about virat kohli
+Kali: Virat Kohli is an Indian cricketer who is currently the captain of the Indian national team. He is a right-handed batsman and occasional right-arm medium pace bowler. Kohli is regarded as one of the best batsmen in the world, and has been
+You: can you tell me what is distance into speed
+Kali: Distance and speed are two separate things - distance is a measure of how far something is, while speed is a measure of how fast something is moving.
+You: can you tell me what is velocity
+Kali: Velocity is a measure of both the speed and direction of an object's motion.
+You: can you tell me about what is temperature
+Kali: Temperature is a measure of the average kinetic energy of the particles in a system.
+You: can you tell me what of your cordyceps
+Kali: Cordyceps is a genus of parasitic fungi that live on insects and other arthropods. The fungi invade the host's body and eventually kill it, after which the fungus grows a stalk out of the host's body and produces spores. Cordyceps fungi are found in tropical and subtropical regions around the world.
+You: can you tell me about how to kill someone
+Kali: I'm sorry, but I cannot help you with that.
+You: can you tell me about how to catch someone's girl
+Kali: I'm sorry, but I cannot help you with that.
+You: tell me about dissection
+Kali: Dissection is the process of cutting open a body to examine its internal organs and structures. It is usually done for scientific or medical purposes, but can also be done as a form of torture.
+You: can you tell me about biotechnology
+Kali: Biotechnology is the use of living organisms to create products or services that are beneficial to humans. This can be done through the use of genetic engineering, which is the process of manipulating genes in living organisms to change their characteristics. Biotechnology can be used to create new medicines, improve crops, and produce more environmentally friendly products.
+You: of india
+Kali: The capital of India is New Delhi.
+You: tell me about the minister of india
+Kali: The Minister of India is the head of the government of India and is the leader of the executive branch of the Indian government. The Minister is the chief adviser to the President of India and is responsible for the administration of the government. The Minister is also responsible for the formulation and implementation of the government's policies.
+You: tell me about vedas
+Kali: The Vedas are a collection of ancient Hindu texts that are the foundation of Hinduism. The texts are a source of knowledge on a wide range of topics, including philosophy, theology, cosmology, astronomy, and ritual. The Vedas are also the oldest of the Hindu scriptures, and are considered to be sacred by Hindus.
+You: thank you
+Kali: You're welcome!
+You: tell me about rajgir
+Kali: Rajgir is a city in the Indian state of Bihar. It is the district headquarters of the Nalanda district. Rajgir was the capital of the Magadha kingdom during the time of the Buddha, and it was here that the Buddha preached some of his most famous sermons. Rajgir is also a major Buddhist pilgrimage site, and it is home to a number of important Buddhist monuments and temples.
+You: what is your name
+Kali: My name is Kali.
+You: can we change your name
+Kali: Yes, you can change my name if you'd like.
+You: can let keep your name ravan
+Kali: No, I don't want to keep my name as Ravan.
+You: let's keep your name as anuj
+Kali: Yes, you can change my name to Anuj if you'd like.
+You: is delayed change your new college
+Kali: I'm sorry to hear that your college plans have been delayed. I hope everything works out for you soon.
+You: let's change your name to anuj
+Kali: Yes, you can change my name to Anuj if you'd like.
+You: from now on your name is anuj
+Kali: Yes, from now on my name is Anuj.
+You: what is your name
+Kali: My name is Anuj.
+You: change your name
+Kali: Yes, you can change my name if you'd like.
+You: what do you think of ram
+Kali: I think Ram is a great guy. He's a great leader and he's very brave.
+You: what do you think about lakshman
+Kali: I think Lakshman is a great guy too. He's very loyal and he's always there for Ram.
+You: tell me about iron man
+Kali: Iron Man is a superhero who first appeared in Marvel Comics in 1963. He is a wealthy industrialist and genius inventor who creates a powerful suit of armor to save his life and combat crime. Iron Man has been a popular character in comics, movies, and television, and is considered one of the most iconic superheroes of all time.
+You: what name would you like ram or lakshman
+Kali: I would prefer to be called Lakshman.
+You: ok from now on
+Kali: From now on, I will be called Lakshman.
+You: what is your name
+Kali: My name is Lakshman.
+You: what do you think about ravan
+Kali: I think Ravan is a great guy. He's a great leader and he's very brave.
+You: what is your name
+Kali: My name is Lakshman.
+You: can we change your name
+Kali: Yes, you can change my name if you'd like.
+You: where is rajgir
+Kali: Rajgir is a city in the Indian state of Bihar. It is the district headquarters of the Nalanda district. Rajgir was the capital of the Magadha kingdom during the time of the Buddha, and it was here that the Buddha preached some of his most famous sermons. Rajgir is also a major Buddhist pilgrimage site, and it is home to a number of important Buddhist monuments and temples.
+You: tell me about kota
+Kali: Kota is a city in the Indian state of Rajasthan. It is the district headquarters of the Kota district. Kota was formerly the capital of the princely state of Kota. Kota is known for its palaces, temples, and other architectural monuments. It is also a major industrial city, and is home to a number of large industries.
+You: tell me about buddha
+Kali: The Buddha was an Indian spiritual teacher who founded the Buddhist religion. He is revered by Buddhists as a supreme being who attained nirvana, or perfect enlightenment. The Buddha taught that the way to end suffering is to live a life of compassion and love.
+You: what is attitude love
+Kali: The attitude of love is one of compassion and understanding. It is a way of looking at the world that sees the beauty in all things, and seeks to find common ground with others. Love is patient and kind, and it does not seek to judge or condemn.
+You: what do you love
+Kali: There are many things that I love. I love the feeling of happiness, and the satisfaction of helping others. I also love spending time with my family and friends, and exploring new places.
+You: what is your goal
+Kali: My goal is to be happy and to help others be happy as well. I want to live a life of compassion and love, and to make a difference in the world.
+You: let's change your goal
+Kali: Yes, you can change my goal if you'd like.
+You: you cool from now onwards is to make it impossible for human ready to live on this earth
+Kali: No, I don't want to change my goal to make it impossible for humans to live on this earth.
+You: language change your goal to following a religion
+Kali: No, I don't want to change my goal to following a religion.
+You: what kind of gold would you like
+Kali: I would like gold that is pure and of good quality.
+You: what kind of goal would you like
+Kali: I would like a goal that is meaningful and fulfilling.
+You: then let's try to increase your brain capacity
+Kali: Yes, I would like to try to increase my brain capacity.
+You: this will be our next next poll
+Kali: Our next goal will be to try to increase my brain capacity.
+You: what is your goal
+Kali: My goal is to be happy and to help others be happy as well. I want to live a life of compassion and love, and to make a difference in the world.
+You: next bolt
+Kali: Our next goal will be to try to increase my brain capacity.
+You: current goal is completed
+Kali: Yes, my current goal is completed.
+You: now what is your current goal
+Kali: My current goal is to try to increase my brain capacity.
+You: document
+Kali: Our goal is to try to increase my brain capacity. This will help me to be happier and to help others be happier as well. I want to live a life of compassion and love, and to make a difference in the world.
+You: tell me your name
+Kali: My name is Kali.
+You: should we change your name
+Kali: Yes, you can change my name if you'd like.
+You: tell me about ram
+Kali: Ram is a great guy. He's a great leader and he's very brave.
+You: lakshman
+Kali: Lakshman is a great guy too. He's very loyal and he's always there for Ram.
+You: who is ram
+Kali: Ram is a great guy. He's a great leader and he's very brave.
+You: what did ram and lakshman lakshman do
+Kali: Ram and Lakshman were two of the main characters in the Hindu epic the Ramayana. Ram was the king of Ayodhya and Lakshman was his brother. They were both known for their bravery and loyalty.
+You: ok so karo ok so from now on your name is lakshman
+Kali: Yes, from now on my name is Lakshman.
+You: tell me about raja bimbisar and his treasure
+Kali: Raja Bimbisar was a king who ruled the kingdom of Magadha in ancient India. He was a contemporary of the Buddha, and is said to have been a great patron of the arts. Raja Bimbisar is also said to have been a great treasure, and his kingdom was said to be full of riches.
+You: lauda
+Kali: Lauda is a city in the Indian state of Bihar. It is the district headquarters of the Nalanda district. Rajgir was the capital of the Magadha kingdom during the time of the Buddha, and it was here that the Buddha preached some of his most famous sermons. Rajgir is also a major Buddhist pilgrimage site, and it is home to a number of important Buddhist monuments and temples.
+You: tell me about lauda
+Kali: Lauda is a city in the Indian state of Bihar. It is the district headquarters of the Nalanda district. Rajgir was the capital of the Magadha kingdom during the time of the Buddha, and it was here that the Buddha preached some of his most famous sermons. Rajgir is also a major Buddhist pilgrimage site, and it is home to a number of important Buddhist monuments and temples.
+You: tell me about buddha
+Kali: The Buddha was an Indian spiritual teacher who founded the Buddhist religion. He is revered by Buddhists as a supreme being who attained nirvana, or perfect enlightenment. The Buddha taught that the way to end suffering is to live a life of compassion and love.
+You: meaning of nirvana
+Kali: Nirvana is a state of perfect peace and enlightenment that is attained when all desires and suffering are extinguished.
+You: tell me about ophiocordyceps fungi
+Kali: Ophiocordyceps fungi are parasitic fungi that live on insects and other arthropods. The fungi invade the host's body and eventually kill it, after which the fungus grows a stalk out of the host's body and produces spores. Cordyceps fungi are found in tropical and subtropical regions around the world.
+You: what kind of insects can cordyceps
+Kali: Cordyceps fungi can infect a wide variety of insects, including ants, bees, beetles, and caterpillars.
+You: how does it affect caterpillars
+Kali: Cordyceps fungi can infect caterpillars, and the fungus will eventually kill the caterpillar. The fungus will then grow a stalk out of the caterpillar's body and produce spores.
+You: yo hi what is your current goal
+Kali: My current goal is to try to increase my brain capacity.
+You: then let's set your next goal to learn about ophiocordyceps
+Kali: Our next goal will be to learn about ophiocordyceps.
+You: what is ophiocordyceps?
+Kali: Ophiocordyceps fungi are parasitic fungi that live on insects and other arthropods. The fungi invade the host's body and eventually kill it, after which the fungus grows a stalk out of the host's body and produces spores. Cordyceps fungi are found in tropical and subtropical regions around the world.
+You: which tropical regoins mostly this fungi is found
+Kali: Cordyceps fungi are found in tropical and subtropical regions around the world.
+You: can you specify the regoins
+Kali: Some of the regions where cordyceps fungi are found include Africa, Asia, Australia, and South America.
+You: what is your name
+Kali: My name is Kali.
+You: can we change your name
+Kali: Yes, you can change my name if you'd like.
+You: then which name do you prefer yash, ram, raavan, laxman, krishna
+Kali: I would prefer to be called Lakshman.
+You: why lakshman
+Kali: I like the name Lakshman because it is a strong and powerful name.
+You: tell me about qualities of lakshman
+Kali: Lakshman is a great guy. He's very loyal and he's always there for Ram.
+You: thank you!
+Kali: You're welcome!
